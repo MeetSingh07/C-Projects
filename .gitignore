@@ -1,0 +1,15 @@
+# Ignore compiled files
+a.exe
+*.exe
+*.out
+*.o
+
+# Ignore temporary files
+*.log
+*.bak
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore txt files
+*.txt
