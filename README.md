@@ -3,9 +3,9 @@
 This <b>repository</b> contains various C projects which you can use for practice.
 <br>
 <h3>Projects included :</h3>
-1. Number Guessing Game
-2. Rock , Paper and Scissors
-3. Simple Calculator
+1. Number Guessing Game<br>
+2. Rock , Paper and Scissors<br>
+3. Simple Calculator<br>
 4. Student Grade Management System
 
 <h3>Author</h3>
