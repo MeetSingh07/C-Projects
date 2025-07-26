@@ -18,10 +18,7 @@ int main(){
     // Takes Input
      for(int i=0;i<n;i++){
         printf("Enter the name of student %i : ",i+1);
-        fgets(students[i].name, sizeof(students[i].name), stdin);
-        
-        // Remove newline character from fgets
-        students[i].name[strcspn(students[i].name,"\n")]="\0";
+        scanf("%s",students[i].name);
 
         printf("Enter roll number of student %i : ",i+1);
         scanf("%d",&students[i].roll_no);
