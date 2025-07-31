@@ -6,7 +6,8 @@ This <b>repository</b> contains various C projects which you can use for practic
 1. Number Guessing Game<br>
 2. Rock , Paper and Scissors<br>
 3. Simple Calculator<br>
-4. Student Grade Management System
+4. Student Grade Management System<br>
+5. Banking System
 
 <h3>Author</h3>
 Meet Singh
